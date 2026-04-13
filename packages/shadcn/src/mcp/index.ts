@@ -24,7 +24,6 @@ export const server = new Server(
   },
   {
     capabilities: {
-      resources: {},
       tools: {},
     },
   }
